@@ -7,7 +7,8 @@
     .body{
         width: auto;
         height: 6000px;
-        background-image: url(/BG.png);
+        background-color: #000;
+        background-image: url(/img/BG.png);
         background-blend-mode: multiply;
         background-repeat: no-repeat;
         background-position: top;
